@@ -7,7 +7,7 @@
 ### Installation ###
 
 * **Backup** your `wp-config.php` file
-* Place `public_html/wp-config.php` into your root directory *(edit accordingly first.)* 
+* Place `wp-config.php` from inside public_html into your root directory *(edit accordingly first.)* 
 * Place the included `config folder` above root *(can be moved if need be.)*
 * Edit `config/config.env.php` to include your different environment cases.
 * Edit a config file for each environment you plan on using *(local, dev, production and staging etc.)*
